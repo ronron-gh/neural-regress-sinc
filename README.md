@@ -1,5 +1,5 @@
 以下のブログ「ニューラルネットワークの表現力を確かめる」で使用したプログラムを公開します。
-https://mzmlab.hatenablog.com/entry/neural-regress-sinc?_ga=2.193505320.42200979.1579619375-148652472.1549099107
+https://mzmlab.hatenablog.com/entry/neural-regress-sinc
 
 フレームワークはchainerを利用しています。
 
